@@ -1,5 +1,5 @@
 {
-  "name": "koa-graphql",
+  "name": "@stem/koa-graphql",
   "version": "0.7.3",
   "description": "Production ready GraphQL Koa middleware.",
   "contributors": [
@@ -9,11 +9,11 @@
   ],
   "license": "BSD-3-Clause",
   "bugs": {
-    "url": "https://github.com/chentsulin/koa-graphql/issues"
+    "url": "https://github.com/stems/koa-graphql/issues"
   },
   "repository": {
     "type": "git",
-    "url": "http://github.com/chentsulin/koa-graphql.git"
+    "url": "http://github.com/stems/koa-graphql.git"
   },
   "keywords": [
     "koa",
